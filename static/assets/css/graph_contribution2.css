@@ -1,0 +1,179 @@
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial,
+      sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; /* GitHub's order, not ideal */
+    font-size: 100%;
+    line-height: 1.5;
+    color: #24292e;
+    background-color: #fff; /* GitHub failed to define this */
+  }
+  
+  div[role="region"] {
+    overflow: auto;
+    width: 100%;
+    padding-top: 50px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    /* padding: 0.8em 0; */
+  }
+    
+  
+  #years span,
+  td[scope="graph"] span[scope="graph"],
+  #Jan17,
+  .sronly {
+    position: absolute;
+    top: auto;
+    overflow: hidden;
+    clip: rect(1px 1px 1px 1px);
+    clip: rect(1px, 1px, 1px, 1px);
+    width: 1px;
+    height: 1px;
+    white-space: nowrap;
+  }
+  
+  table[scope="graph"] {
+    font-size: 65%;
+    border-collapse: separate;
+    border-spacing: 0.2em 0;
+  }
+  
+  caption {
+    text-align: left;
+    font-size: 140%;
+  }
+  
+  th[scope="graph"] {
+    text-align: left;
+    font-weight: normal;
+  }
+  
+  td[scope="graph"] {
+    padding: 0;
+  }
+  
+  td[scope="graph"]::after {
+    content: "";
+    display: block;
+    box-sizing: border-box;
+    width: 1em;
+    height: 1em;
+    background-color: #eee;
+  }
+  
+  td.amta::after,
+  td.amtb::after,
+  td.amtc::after,
+  td.amtd::after,
+  td.amte::after,
+  td.amtf::after,
+  td.amtg::after,
+  td.amth::after{
+    display: none;
+  }
+  
+  td[scope="graph"] {
+    position: relative;
+  }
+  
+  td[scope="graph"] a[scope="graph"] {
+    display: block;
+    box-sizing: border-box;
+    width: 1em;
+    height: 1em;
+    background-color: #eee;
+    z-index: 1;
+    text-decoration: none;
+  }
+  
+  
+  td[scope="graph"] a[scope="graph"]:hover,
+  td[scope="graph"] a[scope="graph"]:focus {
+    text-decoration: none;
+    outline: 0.1em solid #00d;
+  }
+  
+  /* sem coleta */
+  td[scope="graph"].amta a[scope="graph"] { 
+    background-color: #dbdbdb;
+  }
+  /* Evento  */
+  td[scope="graph"].amtb a[scope="graph"] {
+    background-color: #fffb00;
+  } 
+  /* Coleta */
+  td[scope="graph"].amtc a[scope="graph"] {
+    background-color: #239a3b;
+  }
+  /* Calibracao */
+  td[scope="graph"].amtd a[scope="graph"] {
+    background-color: #0602fd;
+  }
+ 
+  /* Coleta + evento */
+  td[scope="graph"].amte a[scope="graph"] {
+    background-color: #73ff00;
+  }
+
+  /* Coleta + calibracao */
+  td[scope="graph"].amtf a[scope="graph"] {
+    background-color: #00fcd2;
+  } 
+
+  /* Termino calibracao */
+  td[scope="graph"].amtg a[scope="graph"] {
+    background-color: #fc0000;
+  } 
+
+  /* Coleta + Termino calibracao */
+  td[scope="graph"].amth a[scope="graph"] {
+    background-color: #fc9700;
+  } 
+    
+  
+  
+  
+  td[class^="amt"] a:focus::before,
+  td[class^="amt"] a:hover::before {
+    position: absolute;
+    display: block;
+    z-index: 1;
+    bottom: 1.5em;
+    left: -1em;
+    width: 12em;
+    max-width: 57em;
+    padding: 0.5em 0.75em;
+    border: 0.05em solid rgba(255, 255, 255, 1);
+    border-radius: 0.2em;
+    box-shadow: 0.15em 0.15em 0.5em rgba(0, 0, 0, 1);
+    content: attr(aria-label);
+    background-color: rgba(0, 0, 0, 0.85);
+    color: rgba(255, 255, 255, 1);
+    font-size: 110%;
+    animation: TOOLTIP 0.1s ease-out 1;
+  }
+  
+  td[class^="amt"]:nth-child(n + 45) a:focus::before,
+  td[class^="amt"]:nth-child(n + 45) a:hover::before {
+    left: -12em;
+  }
+  
+
+  /* The animation */
+  
+  @keyframes TOOLTIP {
+    from {
+      bottom: 0.5em;
+      background-color: rgba(0, 0, 0, 0);
+      border: 0.05em solid rgba(255, 255, 255, 0);
+      color: rgba(255, 255, 255, 0);
+      box-shadow: 0 0 0 rgba(0, 0, 0, 1);
+    }
+    to {
+      bottom: 1.5em;
+      background-color: rgba(0, 0, 0, 0.85);
+      border: 0.05em solid rgba(255, 255, 255, 1);
+      color: rgba(255, 255, 255, 1);
+      box-shadow: 0.15em 0.15em 0.5em rgba(0, 0, 0, 1);
+    }
+  }
