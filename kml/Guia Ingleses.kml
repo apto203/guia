@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1K6FxycdSdGhv7cjGW9sP3wXvUiKwVzdk">
+	<name>Guia Ingleses</name>
+	<gx:CascadingStyle kml:id="__managed_style_20EA6E33C834998BC04A">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_187EB7F23834998BC04A">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0065EA01BC34998BC04A">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_187EB7F23834998BC04A</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_20EA6E33C834998BC04A</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_200B2B456F34998BC04F">
+		<Style>
+			<IconStyle>
+				<scale>1.8</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=d32f2f&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1BC45285A934998BC04F">
+		<Style>
+			<IconStyle>
+				<scale>1.5</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=d32f2f&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_084DA85E1034998BC04F">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1BC45285A934998BC04F</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_200B2B456F34998BC04F</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0F5E268F6534947A054F">
+		<name>Você está aqui</name>
+		<LookAt>
+			<longitude>-48.40686898670938</longitude>
+			<latitude>-27.42856859173928</latitude>
+			<altitude>5.039617464703865</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>336.5395307422295</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_084DA85E1034998BC04F</styleUrl>
+		<Point>
+			<coordinates>-48.4063843150206,-27.42861742861125,5.539677192579868</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E86B1FF8434947B2D0B">
+		<name>Sorveteria Monte Pelmo</name>
+		<LookAt>
+			<longitude>-48.40437683383376</longitude>
+			<latitude>-27.42636398502423</latitude>
+			<altitude>4.552985746354208</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>711.8515695078532</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0065EA01BC34998BC04A</styleUrl>
+		<Point>
+			<coordinates>-48.40426280910688,-27.42583813741095,4.871777058600442</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EECD5B1D634947F2302">
+		<name>Restaurante Amarelinho</name>
+		<LookAt>
+			<longitude>-48.39741522530853</longitude>
+			<latitude>-27.42906754746441</latitude>
+			<altitude>4.607548394151135</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>147.3505101713636</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0065EA01BC34998BC04A</styleUrl>
+		<Point>
+			<coordinates>-48.39716094239752,-27.42897205998398,4.206583197934542</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="015EE4556434948080D7">
+		<name>Mercado Gaivotas</name>
+		<LookAt>
+			<longitude>-48.39888271556386</longitude>
+			<latitude>-27.42900732451467</latitude>
+			<altitude>3.646488253517661</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>283.0218743805381</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0065EA01BC34998BC04A</styleUrl>
+		<Point>
+			<coordinates>-48.39802582544331,-27.42922639055605,3.545523989557946</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="002E1FC05A3494853D71">
+		<name>Jardim Dos Fuscas (Bar)</name>
+		<LookAt>
+			<longitude>-48.40508616671663</longitude>
+			<latitude>-27.42595425170275</latitude>
+			<altitude>3.362135389446117</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>258.600147842335</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0065EA01BC34998BC04A</styleUrl>
+		<Point>
+			<coordinates>-48.40453744315739,-27.42586272958076,4.593566711046724</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0360754BA53494896B11">
+		<name>Farmácia</name>
+		<LookAt>
+			<longitude>-48.39839389582431</longitude>
+			<latitude>-27.42904394727267</latitude>
+			<altitude>3.221237288874448</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>164.2474784230217</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0065EA01BC34998BC04A</styleUrl>
+		<Point>
+			<coordinates>-48.39817110364159,-27.429234087468,3.494410009822202</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="071E9666DB34948AFF71">
+		<name>Mercado Beto</name>
+		<LookAt>
+			<longitude>-48.40238379487823</longitude>
+			<latitude>-27.42346852350853</latitude>
+			<altitude>4.548357576995333</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>301.9196141305293</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0065EA01BC34998BC04A</styleUrl>
+		<Point>
+			<coordinates>-48.40180807941236,-27.42341704586868,3.791640655925526</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="078FDD65AD34948BC484">
+		<name>Comida / Bebida</name>
+		<LookAt>
+			<longitude>-48.39891087424837</longitude>
+			<latitude>-27.42850400526018</latitude>
+			<altitude>3.903188815587415</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>100.9597686032066</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0065EA01BC34998BC04A</styleUrl>
+		<Point>
+			<coordinates>-48.39865899524985,-27.42848745627103,3.885999356409697</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="060321887034948CC516">
+		<name>Centro Ingleses</name>
+		<LookAt>
+			<longitude>-48.39519410909877</longitude>
+			<latitude>-27.43539637466219</latitude>
+			<altitude>5.527346119812089</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>867.5771313758742</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0065EA01BC34998BC04A</styleUrl>
+		<Point>
+			<coordinates>-48.39124895767765,-27.43605954885409,4.756412378439679</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0173C13D8034948D22FF">
+		<name>SuperMercado Angeloni</name>
+		<LookAt>
+			<longitude>-48.39758916455934</longitude>
+			<latitude>-27.43658064138992</latitude>
+			<altitude>5.120326252499265</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>412.092014927257</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0065EA01BC34998BC04A</styleUrl>
+		<Point>
+			<coordinates>-48.39818171983597,-27.43718403100507,6.405629284984635</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05A7DE1C5F34948E5161">
+		<name>Botequim Samba Clube</name>
+		<LookAt>
+			<longitude>-48.39738165834424</longitude>
+			<latitude>-27.42985159294161</latitude>
+			<altitude>5.090251694728252</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>163.6004525592944</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0065EA01BC34998BC04A</styleUrl>
+		<Point>
+			<coordinates>-48.39720291930681,-27.4299293894867,4.252532715103568</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FB6D5BE4D34948ED6E9">
+		<name>Restaurante Porto 45</name>
+		<LookAt>
+			<longitude>-48.39675984107775</longitude>
+			<latitude>-27.42987331587841</latitude>
+			<altitude>4.865994469659977</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>229.1621861850945</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0065EA01BC34998BC04A</styleUrl>
+		<Point>
+			<coordinates>-48.39653188293736,-27.42976288894686,3.631992540941902</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="060D6242FE34948F682D">
+		<name>Restaurante do Alemão</name>
+		<LookAt>
+			<longitude>-48.39632160374671</longitude>
+			<latitude>-27.43058463884596</latitude>
+			<altitude>4.677889379445814</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>250.9976866539364</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0065EA01BC34998BC04A</styleUrl>
+		<Point>
+			<coordinates>-48.39601642937762,-27.43054027290692,3.963408646573583</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DA80E52403494910506">
+		<name>Restaurante Paixão</name>
+		<LookAt>
+			<longitude>-48.39126366297513</longitude>
+			<latitude>-27.43639028913889</latitude>
+			<altitude>5.426433564080632</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>377.188914406579</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0065EA01BC34998BC04A</styleUrl>
+		<Point>
+			<coordinates>-48.39088929681351,-27.43604515970737,4.266935032592063</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AE5075461349495D9B5">
+		<name>Mc Donald</name>
+		<LookAt>
+			<longitude>-48.39479375993909</longitude>
+			<latitude>-27.43615615629542</latitude>
+			<altitude>7.370659765081289</altitude>
+			<heading>5.529913444205984e-09</heading>
+			<tilt>1.759159233996264</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>345.0418390481718</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0065EA01BC34998BC04A</styleUrl>
+		<Point>
+			<coordinates>-48.39427615724686,-27.43615923372476,6.906992921167785</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F321EAEE5349497946F">
+		<name>Bom Café</name>
+		<LookAt>
+			<longitude>-48.395732130163</longitude>
+			<latitude>-27.4363038261133</latitude>
+			<altitude>5.559563292730168</altitude>
+			<heading>5.512874528817064e-09</heading>
+			<tilt>1.759141288772637</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>280.0394504277211</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0065EA01BC34998BC04A</styleUrl>
+		<Point>
+			<coordinates>-48.39553804471406,-27.43637225081042,6.833662421657247</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="078A61EA13349498C048">
+		<name>Restaurante Boulevard</name>
+		<LookAt>
+			<longitude>-48.40015534066412</longitude>
+			<latitude>-27.43446698430659</latitude>
+			<altitude>4.675912387089292</altitude>
+			<heading>-8.94896185401301e-09</heading>
+			<tilt>0.5528781361085772</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>446.9903408624668</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0065EA01BC34998BC04A</styleUrl>
+		<Point>
+			<coordinates>-48.40022992800499,-27.43458153326969,5.534636606529455</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FA1E1798E349499BF38">
+		<name>Vila do Futuro (Food Park)</name>
+		<LookAt>
+			<longitude>-48.40148882814104</longitude>
+			<latitude>-27.43434722107249</latitude>
+			<altitude>5.313393146994533</altitude>
+			<heading>-3.164399609869579e-11</heading>
+			<tilt>0.5528561549829988</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>193.7093014188031</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0065EA01BC34998BC04A</styleUrl>
+		<Point>
+			<coordinates>-48.40159817950826,-27.43439574249499,5.226060214316877</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="001ACC1B1934998C3302">
+		<name>Sorveteria Cremolato</name>
+		<LookAt>
+			<longitude>-48.40170185959734</longitude>
+			<latitude>-27.43450765186989</latitude>
+			<altitude>5.361644645111301</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000062569744</gx:fovy>
+			<range>244.8384945776707</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0065EA01BC34998BC04A</styleUrl>
+		<Point>
+			<coordinates>-48.40155926296521,-27.43454425492016,5.361630969705233</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B9B0DC3BA34998D519E">
+		<name>Restaurante Schiavon</name>
+		<LookAt>
+			<longitude>-48.40165367094641</longitude>
+			<latitude>-27.42607990953643</latitude>
+			<altitude>4.404589840927735</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000062569744</gx:fovy>
+			<range>425.9101288239617</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0065EA01BC34998BC04A</styleUrl>
+		<Point>
+			<coordinates>-48.4011742154516,-27.42605141088941,4.57175145911944</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
